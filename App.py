@@ -18,8 +18,8 @@ conn_str = (
     "DRIVER={ODBC Driver 17 for SQL Server};"
     "SERVER=192.168.1.27;"
     "DATABASE=CELIO_ETLDB;"
-    "UID=sa;"
-    "PWD=sa@1234#;"
+    "UID=sabgccc;"
+    "PWD=sa@fdtfvb12gfgvfdtggfds34#;"
 )
 
 # === Utility function to validate file ===
